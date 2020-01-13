@@ -16,7 +16,7 @@ paginate: 10
 language: 'en-uk'
 # 언어 설정
 
-url: https://gerbuk2.github.io
+url: https://zione.github.io
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -42,7 +42,7 @@ logo_dark:
 favicon: assets/built/images/favicon.jpg
 # favicon으로 사용할 image
 
-production_url: https://gerbuk2.github.io/
+production_url: https://zione.github.io/
 # 최종적으로 blog가 운영될 url
 
 source_url: https://github.com/gerbuk2/zione/
